@@ -9,4 +9,4 @@ React App to show cast info for breaking bad using api https://breakingbadapi.co
 
 ---
 
-### Live Here : 
+### Live Here : https://breakingbadcast63.netlify.app/ 
